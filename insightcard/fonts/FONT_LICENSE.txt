@@ -1,0 +1,6 @@
+The DejaVu Sans fonts embedded in this package (DejaVuSans.ttf,
+DejaVuSans-Bold.ttf, DejaVuSans-Oblique.ttf) are derived from the
+Bitstream Vera Fonts and are released under a permissive license that
+allows redistribution and embedding, with or without modification,
+for any purpose, including commercial use. See
+https://dejavu-fonts.github.io/License.html for the full text.

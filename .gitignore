@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.egg-info/
+.venv/
+
+# Generated report output folders (created next to whatever file you
+# run the tool on, or wherever --output-dir points) -- these are
+# regenerated on every run and shouldn't be committed.
+*_report/
